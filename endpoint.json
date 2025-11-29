@@ -1,5 +1,7 @@
 {
     "Wyv.GG": {
+     "pfp": "https://github.com/wyv25/wyv/blob/main/profile.png?raw=true",
+        "referal": 25,
         "30": {
             "price": "9.49",
             "url": "https://wyv.gg/product/serotonin/ref/keyempire"
@@ -12,7 +14,6 @@
             "price": "47.99",
             "url": "https://wyv.gg/product/serotonin/ref/keyempire"
         },
-        "pfp": "https://github.com/wyv25/wyv/blob/main/profile.png?raw=true",
         "wave": {
             "1": {
                 "price": "2.97",
