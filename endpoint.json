@@ -1,1 +1,106 @@
-[]
+{
+  "Wyv.GG": {
+    "pfp": "https://github.com/wyv25/wyv/blob/main/profile.png?raw=true",
+    "wave": {
+     "payments": [
+        "card",
+        "cashapp",
+        "crypto",
+        "google-pay"
+      ]
+      "1": {
+        "price": "2.97",
+        "url": "https://wyv.gg/product/wave-executor/ref/keyempire"
+      },
+      "7": {
+        "price": "7.47",
+        "url": "https://wyv.gg/product/wave-executor/ref/keyempire"
+      },
+      "30": {
+        "price": "24.47",
+        "url": "https://wyv.gg/product/wave-executor/ref/keyempire"
+      },
+      "180": {
+        "price": "49.97",
+        "url": "https://wyv.gg/product/wave-executor/ref/keyempire"
+      },
+    },
+    "bunni": {
+      "payments": [
+        "card",
+        "cashapp",
+        "crypto",
+        "google-pay"
+      ],
+      "1": {
+        "price": "1.99",
+        "url": "https://wyv.gg/product/bunni-executor/ref/keyemepire/"
+      },
+      "30": {
+        "price": "9.99",
+        "url": "https://wyv.gg/product/bunni-executor/ref/keyemepire"
+      },
+      "lifetime": {
+        "price": "$34.99",
+        "url": "https://wyv.gg/product/bunni-executor/ref/keyemepire/"
+      }
+    },
+    "matcha": {
+      "payments": [
+        "card",
+        "cashapp",
+        "google-pay",
+        "crypto"
+      ],
+      "lifetime": {
+        "price": "9.99",
+        "url": "https://wyv.gg/product/matcha-external/ref/keyempire"
+      }
+    },
+    "yerba": {
+      "payments": [
+        "paypal"
+      ],
+      "lifetime": {
+        "price": "9.99",
+        "url": "https://wyv.gg/product/yerba-external/ref/keyempire"
+      }
+    },
+    "serotonin": {
+     "payments": [
+        "card",
+        "cashapp",
+        "crypto",
+        "google-pay"
+      ]
+    },
+      "30": {
+        "price": "9.49",
+        "url": "https://wyv.gg/product/serotonin/ref/keyempire"
+      },
+      "90": {
+        "price": "23.99",
+        "url": "https://wyv.gg/product/serotonin/ref/keyempire"
+      },
+      "365": {
+        "price": "47.99",
+        "url": "https://wyv.gg/product/serotonin/ref/keyempire"
+      },
+    "seliware": {
+      "payments": [
+        "card",
+        "cashapp",
+        "crypto",
+        "google-pay"
+      ]
+      "7": {
+        "price": "3.99",
+        "url": "https://wyv.gg/product/seliware-executor/ref/keyempire"
+      },
+      "30": {
+        "price": "9.99",
+        "url": "https://wyv.gg/product/seliware-executor/ref/keyempire"
+      },
+    }
+  }
+}
