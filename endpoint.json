@@ -4,32 +4,32 @@
         "referral": 25,
         "30": {
             "price": "9.49",
-            "url": "https://wyv.gg/product/serotonin/ref/keyempire"
+            "url": "https://wyv.gg/product/serotonin/ref/keyemepire"
         },
         "90": {
             "price": "23.99",
-            "url": "https://wyv.gg/product/serotonin/ref/keyempire"
+            "url": "https://wyv.gg/product/serotonin/ref/keyemepire"
         },
         "365": {
             "price": "47.99",
-            "url": "https://wyv.gg/product/serotonin/ref/keyempire"
+            "url": "https://wyv.gg/product/serotonin/ref/keyemepire"
         },
         "wave": {
             "1": {
                 "price": "2.97",
-                "url": "https://wyv.gg/product/wave-executor/ref/keyempire"
+                "url": "https://wyv.gg/product/wave-executor/ref/keyemepire"
             },
             "7": {
                 "price": "7.47",
-                "url": "https://wyv.gg/product/wave-executor/ref/keyempire"
+                "url": "https://wyv.gg/product/wave-executor/ref/keyemepire"
             },
             "30": {
                 "price": "24.47",
-                "url": "https://wyv.gg/product/wave-executor/ref/keyempire"
+                "url": "https://wyv.gg/product/wave-executor/ref/keyemepire"
             },
             "180": {
                 "price": "49.97",
-                "url": "https://wyv.gg/product/wave-executor/ref/keyempire"
+                "url": "https://wyv.gg/product/wave-executor/ref/keyemepire"
             },
             "payments": [
                 "card",
@@ -67,7 +67,7 @@
             ],
             "lifetime": {
                 "price": "9.99",
-                "url": "https://wyv.gg/product/matcha-external/ref/keyempire"
+                "url": "https://wyv.gg/product/matcha-external/ref/keyemepire"
             }
         },
         "yerba": {
@@ -76,7 +76,7 @@
             ],
             "lifetime": {
                 "price": "9.99",
-                "url": "https://wyv.gg/product/yerba-external/ref/keyempire"
+                "url": "https://wyv.gg/product/yerba-external/ref/keyemepire"
             }
         },
         "serotonin": {
@@ -90,11 +90,11 @@
         "seliware": {
             "7": {
                 "price": "3.99",
-                "url": "https://wyv.gg/product/seliware-executor/ref/keyempire"
+                "url": "https://wyv.gg/product/seliware-executor/ref/keyemepire"
             },
             "30": {
                 "price": "9.99",
-                "url": "https://wyv.gg/product/seliware-executor/ref/keyempire"
+                "url": "https://wyv.gg/product/seliware-executor/ref/keyemepire"
             },
             "payments": [
                 "card",
