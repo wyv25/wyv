@@ -26,9 +26,14 @@
             "30": {
                 "price": "24.47",
                 "url": "https://wyv.gg/product/wave-executor/ref/keyempire"
+
             },
-            "180": {
-                "price": "49.97",
+            "90": {
+                "price": "44.47",
+                "url": "https://wyv.gg/product/wave-executor/ref/keyempire"
+            },
+            "365": {
+                "price": "144.47",
                 "url": "https://wyv.gg/product/wave-executor/ref/keyempire"
             },
             "payments": [
