@@ -105,6 +105,26 @@
         "crypto",
         "google-pay"
       ]
+    },
+    "volt": {
+      "7": {
+        "price": "7.99",
+        "url": "https://wyv.gg/product/volt-executor/ref/keyempire"
+      },
+      "30": {
+        "price": "24.99",
+        "url": "https://wyv.gg/product/volt-executor/ref/keyempire"
+      },
+      "90": {
+        "price": "59.99",
+        "url": "https://wyv.gg/product/volt-executor/ref/keyempire"
+      },
+      "payments": [
+        "Card",
+        "Cash App",
+        "Crypto",
+        "PayPal"
+      ]
     }
   }
 }
