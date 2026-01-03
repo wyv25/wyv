@@ -19,26 +19,27 @@
     "referral": "25",
     "wave": {
       "1": {
-        "price": "2.97",
+        "price": "2.49",
         "url": "https://wyv.gg/product/wave-executor/ref/keyempire"
       },
       "7": {
-        "price": "7.47",
+        "price": "5.99",
         "url": "https://wyv.gg/product/wave-executor/ref/keyempire"
       },
       "30": {
-        "price": "24.47",
+        "price": "18.99",
         "url": "https://wyv.gg/product/wave-executor/ref/keyempire"
       },
-      "180": {
-        "price": "49.97",
+      "90": {
+        "price": "39.99",
         "url": "https://wyv.gg/product/wave-executor/ref/keyempire"
       },
       "payments": [
         "card",
         "cashapp",
         "crypto",
-        "google-pay"
+        "google-pay",
+        "Robux"
       ]
     },
     "bunni": {
@@ -58,19 +59,21 @@
         "card",
         "cashapp",
         "crypto",
-        "google-pay"
+        "google-pay",
+        "Robux"
       ]
     },
     "matcha": {
       "lifetime": {
-        "price": "9.99",
+        "price": "8.97",
         "url": "https://wyv.gg/product/matcha-external/ref/keyempire"
       },
       "payments": [
         "card",
         "cashapp",
         "google-pay",
-        "crypto"
+        "crypto",
+        "Robux"
       ]
     },
     "yerba": {
@@ -79,7 +82,11 @@
         "url": "https://wyv.gg/product/yerba-external/ref/keyempire"
       },
       "payments": [
-        "paypal"
+        "paypal",
+        "Robux",
+        "Card",
+        "Crypto",
+        "Cash App"
       ]
     },
     "serotonin": {
@@ -87,7 +94,8 @@
         "card",
         "cashapp",
         "crypto",
-        "google-pay"
+        "google-pay",
+        "Robux"
       ]
     },
     "seliware": {
@@ -103,7 +111,8 @@
         "card",
         "cashapp",
         "crypto",
-        "google-pay"
+        "google-pay",
+        "Robux"
       ]
     },
     "volt": {
@@ -123,7 +132,8 @@
         "Card",
         "Cash App",
         "Crypto",
-        "PayPal"
+        "PayPal",
+        "Robux"
       ]
     }
   }
