@@ -90,6 +90,18 @@
       ]
     },
     "serotonin": {
+      "30": {
+        "price": "9.49",
+        "url": "https://wyv.gg/product/serotonin/ref/keyempire"
+      },
+      "90": {
+        "price": "23.99",
+        "url": "https://wyv.gg/product/serotonin/ref/keyempire"
+      },
+      "365": {
+        "price": "47.99",
+        "url": "https://wyv.gg/product/serotonin/ref/keyempire"
+      },
       "payments": [
         "card",
         "cashapp",
