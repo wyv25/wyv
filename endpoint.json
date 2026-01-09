@@ -147,6 +147,49 @@
         "PayPal",
         "Robux"
       ]
+    },
+    "volcano": {
+      "7": {
+        "price": "5.97",
+        "url": "https://wyv.gg/product/volcano-executor/ref/keyempire",
+        "deal": true
+      },
+      "30": {
+        "price": "19.97",
+        "url": "https://wyv.gg/product/volcano-executor/ref/keyempire",
+        "deal": true
+      },
+      "payments": [
+        "Robux",
+        "PayPal",
+        "Crypto",
+        "Cash App",
+        "Card"
+      ]
+    },
+    "cryptic": {
+      "7": {
+        "price": "4.25",
+        "url": "https://wyv.gg/product/cryptic-executor/ref/keyempire",
+        "deal": true
+      },
+      "30": {
+        "price": "15.30",
+        "url": "https://wyv.gg/product/cryptic-executor/ref/keyempire",
+        "deal": true
+      },
+      "90": {
+        "price": "33.99",
+        "url": "https://wyv.gg/product/cryptic-executor/ref/keyempire",
+        "deal": true
+      },
+      "payments": [
+        "Card",
+        "Cash App",
+        "Crypto",
+        "PayPal",
+        "Robux"
+      ]
     }
   }
 }
